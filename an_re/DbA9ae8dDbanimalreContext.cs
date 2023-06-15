@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using an_re.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace an_re;
