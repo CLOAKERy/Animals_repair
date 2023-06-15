@@ -1,4 +1,4 @@
-namespace an_re
+namespace an_re.Models
 {
     public class WeatherForecast
     {
